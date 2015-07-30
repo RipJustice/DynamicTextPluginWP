@@ -1,5 +1,5 @@
 === Dynamic Text ===
-Contributor: ripjustice
+Contributors: ripjustice
 Tags:plugin, shortcode, page, post, content, text
 Tested up to: 4.2.3
 License: GPLv3
