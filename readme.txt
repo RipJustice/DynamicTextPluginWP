@@ -15,10 +15,10 @@ Dynamic Text allows you to have dynamic text and content on your Wordpress pages
 
 This plugin works as follows:            
             	
-1.Domain 1 sets the domain for the shortcode set "[dynamic_text_one][/dynamic_text_one]"
-2.Domain 2 sets the domain for the shortcode set "[dynamic_text_two][/dynamic_text_two]"
-3.Domain 3 sets the domain for the shortcode set "[dynamic_text_three][/dynamic_text_three]"
-4.Domain 4 sets the domain for the shortcode set "[dynamic_text_four][/dynamic_text_four]"
+* Domain 1 sets the domain for the shortcode set "[dynamic_text_one][/dynamic_text_one]"
+* Domain 2 sets the domain for the shortcode set "[dynamic_text_two][/dynamic_text_two]"
+* Domain 3 sets the domain for the shortcode set "[dynamic_text_three][/dynamic_text_three]"
+* Domain 4 sets the domain for the shortcode set "[dynamic_text_four][/dynamic_text_four]"
             	            
 This is plugin is intended for situations where you need to effectively have 2 or more sites with the same template but different content. 
 Rather than have to set up three separate wordpress sites your can use this plugin to have a central site and instead swap content based upon 
@@ -42,7 +42,7 @@ when a user visits your site from "thisisatest.us".
 
 == Frequently Asked Questions ==
 
-= why did you make this plugin? =
+= Why did you make this plugin? =
 
 Because I have worked with companies that have had Wordpress sites intended for the US and other countries, and this is 
 a nice way to swap content out based on the domain used when landing on the site. Usually if you wanted a .com and a .US version of a site, you would have to set up two separate wordpress sites. 
@@ -60,11 +60,9 @@ and this error message will go away.
 
 == Screenshots ==
 
-1. dt_ss_1.png
-
-2. dt_ss_2.png
-
-3. dt_ss_3.png
+1. Domain Settings Page
+2. Shortcode Examples
+3. How the plugin is displayed in your Plugins section
 
 == Changelog ==
 
