@@ -1,7 +1,7 @@
 === Dynamic Text ===
 Contributors: ripjustice
 Tags:plugin, shortcode, page, post, content, text
-Tested up to: 4.2.3
+Tested up to: 4.3.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
