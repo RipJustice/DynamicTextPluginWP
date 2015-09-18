@@ -5,12 +5,12 @@ Tested up to: 4.3.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
-Dynamic Text allows you to have dynamic text and content on your Wordpress pages and posts. To use this plugin, set up to 
+Dynamic Text allows you to have dynamic text and content on your Wordpress pages and posts and is effectively a localization plugin. To use this plugin, set up to 
 4 different domain names that are associated with 4 separate short codes. 
 
 == Description ==
 
-Dynamic Text allows you to have dynamic text and content on your Wordpress pages and posts. To use this plugin, set up to 
+Dynamic Text allows you to have dynamic text and content on your Wordpress pages and posts and is effectively a localization plugin. To use this plugin, set up to 
 4 different domain names that are associated with 4 separate short codes. 
 
 This plugin works as follows:            
