@@ -33,7 +33,7 @@ function dynamic_text_function($atts, $content = null) {
 		$urlkey = get_option($dtkey);
 		$dt_dom1 = strtolower($urlkey);
 		if ($dtdomchoices['domain']===$dtkey){//match db data against attribute
-			if ($dt_dom1 === "") {//error catch if no option exists
+			if ($dt_dom1 === "") {//error catch if no option value exists
 				echo "";
 			}elseif (strpos($escaped_url, "$dt_dom1") === false) {//mismatch catch
 				echo "";
