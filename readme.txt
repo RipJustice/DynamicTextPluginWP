@@ -71,6 +71,10 @@ of the plugin.
 
 == Changelog ==
 
+= 2.1.1 =
+
+Changed html and styling for the settings page to make it more responsive on mobile devices, added the ability to delete/reset option 1 and changed the underlying code to be more object-oriented
+
 = 2.1 =
 
 Shortcodes from other themes and plugins can now be nested inside Dynamic Text. Also added individual delete buttons for saved domain info and changed the shortcode function to include parsing page data in addition to domain date (this allows the plugin to work based on any string in the url now rather than just the domain)
